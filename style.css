@@ -12,6 +12,22 @@ p, li {
     font-size: 1.2rem;
     line-height: 2rem;
 }
+.header h1 {
+    font-size: 3.5rem;
+    font-weight: normal;
+    color: #fff;
+    width: 310px;
+    margin: 40px auto  auto;
+}
+
+.header .subheader {
+    font-family: 'Hankc', serif !important;
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: whitesmoke;
+    margin: auto;
+}
+
 h2 {
     font-family: 'Hankc', serif !important;
     font-weight: 400;
@@ -58,93 +74,6 @@ iframe {
     margin: 6rem 0;
 }
 
-/*
-.ui.simple.segment {
-    background-color: #222;
-    border: 0;
-    margin: 0 0 -14px 0;
-    border-bottom: 1px dashed #555;
-    font-size: 1.3rem !important;
-    padding-bottom: 0;
-}
-
-.ui.simple.segment .small{
-    font-size: 1.1rem !important;
-}
-
-
-
-.ui.simple.segment ol, .ui.simple.segment ul{
-    padding-left: 1.3rem;
-    line-height: 1.4;
-    margin:0;
-}
-
-@media only screen and (min-width: 992px) {
-    .ui.segment {
-        padding: 6rem;
-        border-radius: 0.2rem;
-    }
-    .title{
-        background-image: url(images/title.png);
-        background-size: 920px 185px;
-    }
-}
-
-@media only screen and (max-width: 991px) and (min-width: 768px) {
-    .ui.segment {
-        padding: 4rem;
-    }
-}
-
-@media only screen and (max-width: 767px) {
-    .ui.simple.segment {
-        padding: 2rem;
-        padding-top: 3rem;
-        font-size: 1.2rem !important;
-    }
-
-    .ui.simple.segment.first {
-        padding-top:4rem;
-    }
-
-    .title{
-        background-size:250px;
-        background-position-y: 2rem;
-    }
-
-
-    .ui.container {
-        margin-left: 0 !important;
-        margin-right: 0 !important;
-        margin-top:0;
-    }
-}
-
-.icons {
-    margin: auto 0;
-    text-align: center;
-    padding-left: 0 !important;
-    margin-top: 1rem !important;
-    margin-bottom: 1rem !important;
-}
-
-.icons li {
-    display: inline-block;
-    font-size: 1.5rem;
-    margin: 1.5rem;
-}
-
-
-
-
-
-
-.icons a {
-    color: white;
-    text-decoration: none;
-}
-*/
 .mov {
     width: 640px;
     margin: 3rem auto 0 auto;
@@ -152,7 +81,7 @@ iframe {
 
 
 img.illustrate {
-    max-width: 200px;
+    max-width: 400px;
     margin: 8rem 0 8rem 0;
 }
 
