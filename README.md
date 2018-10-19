@@ -1,1 +1,1 @@
-https://egoing.github.io/code_night/index.html
+https://happydeveloper.github.io/right_to_repair/index.html
